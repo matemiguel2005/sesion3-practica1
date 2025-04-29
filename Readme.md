@@ -29,7 +29,3 @@ Este proyecto tiene como objetivo establecer y documentar los estándares para e
 ## Contribuciones
 
 Si deseas contribuir a este proyecto, por favor sigue los lineamientos establecidos en el archivo `CONTRIBUTING.md`.
-
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
