@@ -32,3 +32,6 @@ Si deseas contribuir a este proyecto, por favor sigue los lineamientos estableci
 
 #Cambios importantes
 Este cambio es superimportante.
+
+#Terminos y Condiciones
+Vamos agregar termimos de uso en la plataforma.
