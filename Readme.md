@@ -33,3 +33,6 @@ Si deseas contribuir a este proyecto, por favor sigue los lineamientos estableci
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
+
+#Cambios importantes
+Este cambio es superimportante.
